@@ -1,0 +1,11 @@
+{
+  "name": "my-project",
+  "module": "index.ts",
+  "devDependencies": {
+    "bun-types": "^1.0.1"
+  },
+  "type": "module",
+  "dependencies": {
+    "marked": "^12.0.1"
+  }
+}
